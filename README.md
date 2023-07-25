@@ -67,10 +67,8 @@ La expresión Nativos Digitales fue acuñada en 2001, por Marc Prensky, para ref
 </ul>
 
 
-
-<footer>
+<br>
 <h2>OPINION</h2>
 <p>
 Este tema hace referencia a las personas que han crecido en la era digital, donde la tecnología, especialmente Internet, ha estado presente desde una edad temprana. Estas personas han tenido demasiado acercamiento natural a dispositivos digitales, estos pueden ser computadoras, teléfonos y tabletas, y se sienten cómodos utilizando la tecnología en su vida diaria.
 </p>
-</footer>

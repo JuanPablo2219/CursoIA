@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7f0b5e7b9f13792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Basico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Python Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Python Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Python Basico.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea94863e1c9126ff",
+  "active": "d7f0b5e7b9f13792",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Python Basico.md"
   ]
 }
