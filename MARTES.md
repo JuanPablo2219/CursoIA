@@ -23,14 +23,19 @@ información), etc <br>
 Es muy importante la indexación.
 </p>
 
+![](https://technocio.com/wp-content/uploads/2022/02/Python.jpg)
+
 <h2>Booleans y Condicionales</h2>
 <p>
 Permiten controlar la ejecución del código.
 A diferencia de javascript no se pude asignar valores a posiciones que no exiten.
 </p>
-<h3>Ejemplo</h3>
+
+![](https://tutorias.co/wp-content/uploads/2015/06/generaCombinacionesPython.jpg)
+
 <h2>Listas</h2>
 
+![]()
 <p>
 Sin secuencias que pueden ordenar los valores que se pueden modificar e indexarse
 también puede ofrecer funciones útiles
@@ -55,7 +60,14 @@ y valores.
 <p>
 El Machine Learning o Aprendizaje Automático es una rama de la Inteligencia Artificial que se centra en el desarrollo de algoritmos y modelos que permiten a las máquinas aprender patrones y tomar decisiones basadas en datos, sin ser programadas explícitamente para cada tarea específica. En lugar de seguir reglas predefinidas, los sistemas de Machine Learning pueden analizar datos, identificar tendencias y patrones, y aprender a mejorar su rendimiento a medida que se les proporciona más información.
 </p>
-	<h2>Introducción a Pandas</h2>
+
+![](https://ticnegocios.camaravalencia.com/wp-content/uploads/2017/09/machine-learning-espana.jpg)
+
+	
+
+<h2>Introducción a Pandas</h2>
 <p>
 Pandas es una de las bibliotecas más populares y poderosas en el lenguaje de programación Python, diseñada para el análisis y manipulación de datos de manera eficiente. Su nombre deriva de "panel data" (datos en forma de paneles), una estructura de datos que representa observaciones en diferentes momentos a lo largo del tiempo.
 </p>
+
+![](https://pythondiario.com/wp-content/uploads/2019/02/pandas.png)

@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIERCOLES.md",
+                "file": "LUNES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bf02693f3b4c3e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LUNES.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MIERCOLES.md",
+                "file": "LUNES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MIERCOLES.md",
+                "file": "LUNES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MIERCOLES.md"
+                "file": "LUNES.md"
               }
             }
           }
@@ -183,11 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee75906f0edd54b0",
+  "active": "2bf02693f3b4c3e5",
   "lastOpenFiles": [
+    "JUEVES.md",
+    "MIERCOLES.md",
     "MARTES.md",
     "LUNES.md",
-    "MIERCOLES.md",
     "ruta/a/la/imagen.jpg.md",
     "ruta/a/la",
     "ruta/a",

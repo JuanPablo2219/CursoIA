@@ -7,7 +7,10 @@ La inteligencia artificial se trata de un aprendizaje automatico y procesamiento
 <h1>ETICA Y SESGO</h1>
 <hr>
 
+![](https://dplnews.com/wp-content/uploads/2019/02/dpl_inteligencia-artificial_jb050219.jpg)
 <h3>ÉTICA en la IA: </h3>
+
+
 <p>
  La ética en la IA se refiere a la consideración de los valores y principios morales al diseñar y utilizar sistemas de inteligencia artificial. Esto implica garantizar que la IA se utilice de manera responsable, justa y segura, evitando daños a las personas o a la sociedad en general. También se abordan temas como la privacidad, la transparencia y la responsabilidad de los desarrolladores y usuarios de estas tecnologías.
  </p>
@@ -17,6 +20,9 @@ El sesgo en la IA ocurre cuando los modelos de inteligencia artificial reflejan 
 </p>
 
 <h2>ALPHAGO</h2>
+
+![]
+
 <p>
 El programa de IA que derrotó al campeón mundial en el juego de Go.
 </p>
@@ -53,4 +59,5 @@ La expresión Nativos Digitales fue acuñada en 2001, por Marc Prensky, para ref
 <h2>OPINION</h2>
 <p>
 Este tema hace referencia a las personas que han crecido en la era digital, donde la tecnología, especialmente Internet, ha estado presente desde una edad temprana. Estas personas han tenido demasiado acercamiento natural a dispositivos digitales, estos pueden ser computadoras, teléfonos y tabletas, y se sienten cómodos utilizando la tecnología en su vida diaria.
-</p>
+</p
+
