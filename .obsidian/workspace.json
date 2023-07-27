@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LUNES.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Basico.md",
+                "file": "LUNES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee75906f0edd54b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIERCOLES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80649946c9203e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LUNES.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Basico.md",
+                "file": "MIERCOLES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Basico.md",
+                "file": "MIERCOLES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Basico.md"
+                "file": "MIERCOLES.md"
               }
             }
           }
@@ -159,9 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7f0b5e7b9f13792",
+  "active": "ee75906f0edd54b0",
   "lastOpenFiles": [
-    "README.md",
-    "Python Basico.md"
+    "MARTES.md",
+    "LUNES.md",
+    "MIERCOLES.md",
+    "ruta/a/la/imagen.jpg.md",
+    "ruta/a/la",
+    "ruta/a",
+    "ruta"
   ]
 }
