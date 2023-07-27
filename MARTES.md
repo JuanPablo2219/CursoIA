@@ -35,7 +35,7 @@ A diferencia de javascript no se pude asignar valores a posiciones que no exiten
 
 <h2>Listas</h2>
 
-![]()
+![](https://parzibyte.me/blog/wp-content/uploads/2018/12/Cortar-arreglos-en-Python-slice-en-listas.png)
 <p>
 Sin secuencias que pueden ordenar los valores que se pueden modificar e indexarse
 también puede ofrecer funciones útiles
