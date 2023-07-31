@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LUNES.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf02693f3b4c3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LUNES.md",
+                "file": "JUEVES.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LUNES.md",
+                "file": "JUEVES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LUNES.md",
+                "file": "JUEVES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LUNES.md"
+                "file": "JUEVES.md"
               }
             }
           }
@@ -195,12 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf02693f3b4c3e5",
+  "active": "ee75906f0edd54b0",
   "lastOpenFiles": [
+    "LUNES.md",
+    "Imagen11.png.md",
     "JUEVES.md",
     "MIERCOLES.md",
     "MARTES.md",
-    "LUNES.md",
     "ruta/a/la/imagen.jpg.md",
     "ruta/a/la",
     "ruta/a",
